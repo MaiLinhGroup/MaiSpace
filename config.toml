@@ -2,3 +2,13 @@ title = "Mai Linh Nguyen"
 baseURL = "https://nguyenmailinh.com"
 languageCode = "en-us"
 theme = "ananke"
+
+Paginate = 5
+
+[params]
+  github = "https://github.com/MaiLinhGroup"
+  linkedin = "www.linkedin.com/in/mailinhng"
+  twitter = "https://twitter.com/mailinhgonguyen"
+  instagram = "https://www.instagram.com/mle_ng/?hl=ur"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
