@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: false
+tags: []
+author: "Mai Linh Nguyen"
+draft: true
 ---
-

@@ -9,5 +9,5 @@ echo "Committing with message: $COMMIT_MSG"
 rm -rf public
 
 git add --all
-git ci -m "$COMMIT_MSG"
+git commit -m "$COMMIT_MSG"
 git push origin master
