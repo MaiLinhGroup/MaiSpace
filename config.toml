@@ -3,7 +3,17 @@ baseURL = "https://nguyenmailinh.com"
 languageCode = "en-us"
 theme = "ananke"
 
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
 Paginate = 5
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
   github = "https://github.com/MaiLinhGroup"

@@ -5,5 +5,6 @@ tags: ["tinkering","refurbishing", "retrobots"]
 categories: ["hardware", "tutorial", "robotics"]
 author: "Mai Linh Nguyen"
 draft: true
+show_reading_time: true
 ---
 Hello.
