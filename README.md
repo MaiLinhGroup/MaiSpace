@@ -3,3 +3,23 @@ source for personal website https://nguyenmailinh.com created with https://gohug
 
 ## theme
 https://github.com/budparr/gohugo-theme-ananke
+
+## getting started
+checkout with
+
+```zsh
+~$ git clone --recursive git@github.com:MaiLinhGroup/personal-website.git
+```
+
+or if you already check it out it with
+
+```zsh
+~$ git clone git@github.com:MaiLinhGroup/personal-website.git
+```
+
+just add 
+
+```zsh
+~$ git submodule update --init --recursive
+```
+to also checkout the content of the submodule.
