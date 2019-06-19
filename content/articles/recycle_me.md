@@ -7,4 +7,4 @@ author: "Mai Linh Nguyen"
 draft: true
 show_reading_time: true
 ---
-{{< figure src="static/img/tin-can-1.jpg" title="Let's upcycle this tin can!" >}}
+{{< figure src="/img/tin-can-1.jpg" title="What you need to start!" >}}
