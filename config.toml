@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   github = "https://github.com/MaiLinhGroup"
-  linkedin = "www.linkedin.com/in/mailinhng"
+  linkedin = "https://www.linkedin.com/in/mailinhng/"
   twitter = "https://twitter.com/mailinhgonguyen"
   instagram = "https://www.instagram.com/mle_ng/?hl=ur"
   background_color_class = "bg-black"
