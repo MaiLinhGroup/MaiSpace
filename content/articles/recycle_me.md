@@ -6,11 +6,11 @@ categories: ["hardware", "robotics"]
 author: "Mai Linh Nguyen"
 show_reading_time: true
 ---
-{{< figure src="/img/tin-can-1.jpg" title="This kit gives a tin can a second life after its utilisation!" >}}
+{{< figure src="/img/tin-can-1.jpg?nf_resize=fit&w=300&h=300" title="This kit gives a tin can a second life after its utilisation!" >}}
 
 Last christmas I finally turned 30 and what is an adequate gift for a woman who is known to be very serious? My dearest best friend [xennis](https://github.com/Xennis) got it right and gave me this [tin can robot kit](https://amzn.to/2Jdpyra).
 
-{{< figure src="/img/tin-can-2.jpg" title="All parts needed for upcycling a tin can." >}}
+{{< figure src="/img/tin-can-2.jpg?nf_resize=fit&w=300&h=300" title="All parts needed for upcycling a tin can." >}}
 
 It is a meaningful and funny gift for curious children or robo-me nerd like me. I enjoyed the process of assembling the robot a lot because it is a manual work but with a good portion of cognitive load. Assembling objects takes and fosters visual thinking and a good planning. I know one could study the instructions but I have to admit that I rather count myself to the eager group! The charm of ignoring instructions is besides having longer fun than intended :D that I challenge myself to reverse-engineer from a picture all the needed steps and execute them in the right order.
 
