@@ -6,7 +6,7 @@ categories: ["hardware", "robotics"]
 author: "Mai Linh Nguyen"
 show_reading_time: true
 ---
-{{< figure src="/img/tin-can-1.jpg?nf_resize=fit&w=300&h=300" title="This kit gives a tin can a second life after its utilisation!" >}}
+{{< figure src="/img/tin-can-1.jpg?nf_resize=fit&w=600" title="This kit gives a tin can a second life after its utilisation!" >}}
 
 Last christmas I finally turned 30 and what is an adequate gift for a woman who is known to be very serious? My dearest best friend [xennis](https://github.com/Xennis) got it right and gave me this [tin can robot kit](https://amzn.to/2Jdpyra).
 
