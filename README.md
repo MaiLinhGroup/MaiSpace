@@ -43,6 +43,10 @@ OSX:
 foo@bar~$ brew install hugo
 ```
 
+### Setup Netlify Large Media
+
+This website uses [Git Large File Storage](https://git-lfs.github.com/) (LFS) and [Netlify Large Media](https://docs.netlify.com/large-media/overview/) to handle large media file like PNG or JPG.
+
 ### Local development
 
 Start the local development server with
