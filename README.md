@@ -30,6 +30,12 @@ foo@bar~$ git submodule update --init --recursive
 ```
 to load also the content of all [listed submodules](.gitmodules).
 
+Update the submodule to the latest commit with 
+
+```zsh
+foo@bar~$ git submodule update --remote --merge
+```
+
 ### Install Hugo
 
 OSX:
