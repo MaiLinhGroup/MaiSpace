@@ -1,5 +1,5 @@
 # Personal Website [![Netlify Status](https://api.netlify.com/api/v1/badges/57ad793c-ff93-417a-9fea-4637204f2f12/deploy-status)](https://app.netlify.com/sites/unruffled-nightingale-5678c2/deploys)
-This is the source for my personal website with the domain https://nguyenmailinh.com, created with [Hugo](https://gohugo.io) and hosted with [Netlify](https://app.netlify.com/).
+This is the source code for my personal website with the domain https://nguyenmailinh.com, built with [Hugo](https://gohugo.io) and hosted with [Netlify](https://app.netlify.com/).
 
 ## Theme
 
@@ -12,7 +12,8 @@ This website uses the free Hugo theme [Ananke](https://github.com/budparr/gohugo
 Clone everything with
 
 ```zsh
-foo@bar~$ git clone --recursive git@github.com:MaiLinhGroup/personal-website.git
+foo@bar~$ git clone --recurse-submodules -j8 git@github.com:MaiLinhGroup/personal-website.git
+foo@bar~$ cd personal-website
 ```
 
 or if you already have the project cloned with
@@ -24,9 +25,17 @@ foo@bar~$ git clone git@github.com:MaiLinhGroup/personal-website.git
 just add following
 
 ```zsh
+foo@bar~$ cd personal-website
 foo@bar~$ git submodule update --init --recursive
 ```
-to get also the content of all submodules.
+to load also the content of all [listed submodules](.gitmodules).
+
+### Install Hugo
+
+OSX:
+```zsh
+foo@bar~$ brew install hugo
+```
 
 ### Local development
 
