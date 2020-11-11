@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 5
+Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -22,3 +22,4 @@ enableRobotsTXT = true
   instagram = "https://www.instagram.com/mle_ng/?hl=ur"
   background_color_class = "bg-black"
   recent_posts_number = 3
+  custom_css = ["style/custom.css"]
