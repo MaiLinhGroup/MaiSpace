@@ -45,7 +45,7 @@ foo@bar~$ brew install hugo
 
 ### Setup Netlify Large Media
 
-This website uses [Git Large File Storage](https://git-lfs.github.com/) (LFS) and [Netlify Large Media](https://docs.netlify.com/large-media/overview/) to handle large media file like PNG or JPG.
+This website uses [Git Large File Storage](https://git-lfs.github.com/) (LFS) and [Netlify Large Media](https://docs.netlify.com/large-media/overview/) feature to handle its assets and hence stores text pointers of the assets instead of the assets themselves on GitHub. The assets are stored as of now on Netlify's ADN and therefore [special caution is needed when this feature should be disabled](https://docs.netlify.com/large-media/requirements-and-limitations/#disable-large-media).
 
 ### Local development
 
@@ -85,4 +85,3 @@ Save all changes made by add and commit them with `Git` and push the changes to 
 
 The Git repository is linked with [Netlify's Continuous Deployment](https://docs.netlify.com/configure-builds/get-started/#basic-build-settings) feature which will build and deploy the website automatically as soon as new commits are pushed to [GitHub](https://github.com/MaiLinhGroup/MaiSpace).
 
-The website also uses [Netlify's Large Media](https://www.netlify.com/products/large-media/) feature to handle its assets and hence stores text pointers of the assets instead of the assets themselves on GitHub. The assets are stored as of now on Netlify's ADN and therefore [special caution is needed when this feature should be disabled](https://docs.netlify.com/large-media/requirements-and-limitations/#disable-large-media).
