@@ -1,5 +1,5 @@
 # MaiSpace [![Netlify Status](https://api.netlify.com/api/v1/badges/57ad793c-ff93-417a-9fea-4637204f2f12/deploy-status)](https://app.netlify.com/sites/unruffled-nightingale-5678c2/deploys)
-This is the source code for my personal website with the domain https://nguyenmailinh.com, built with [Hugo](https://gohugo.io) and hosted with [Netlify](https://app.netlify.com/).
+This is the source code for my personal website with the domain https://nguyenmailinh.info, built with [Hugo](https://gohugo.io) and hosted with [Netlify](https://app.netlify.com/).
 
 ## Theme
 
