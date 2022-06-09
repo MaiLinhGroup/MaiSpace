@@ -1,10 +1,17 @@
 html {
     box-sizing: border-box;
 }
-*, *:before, *:after {
+
+*,
+*:before,
+*:after {
     box-sizing: inherit;
 }
 
 .custom-title {
     text-align: center;
+}
+
+.athelas.athelas {
+    font-family: Athelas, Georgia, serif;
 }
